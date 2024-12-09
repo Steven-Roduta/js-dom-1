@@ -14,9 +14,10 @@
 
 body{
     display: flex;
+
 }
 
-body .white {
+.white {
     display: flex;
     align-items: center;
     justify-content: center;
